@@ -8,7 +8,7 @@ I specialize in shipping **scalable, optimized, and practical applications** tha
 ### 🚀 What I'm Shipping
 | Project | Core Value Prop | Tech Stack |
 | :--- | :--- | :--- |
-| **[Biblio](https://github.com/ved1nsh/biblio)** | A "Hybrid Library" synchronizing physical & digital reading. | Flutter, Supabase, Riverpod |
+| **[Biblio](https://v1-biblio.vercel.app/)** | A "Hybrid Library" synchronizing physical & digital reading. | Flutter, Supabase, Riverpod |
 | **Panel Play** | High-performance macOS widget for notification-center music control.(Ongoing) | Swift, SwiftUI, Xcode |
 | **[Biblio Landing](https://github.com/ved1nsh/bibliolandingpage)** | High-conversion web presence for the Biblio ecosystem. | React, TypeScript, Tailwind |
 
