@@ -8,17 +8,16 @@ I specialize in shipping **scalable, optimized, and practical applications** tha
 ### 🚀 What I'm Shipping
 | Project | Core Value Prop | Tech Stack |
 | :--- | :--- | :--- |
-| **[Biblio](https://github.com/ved1nsh/biblio)** | A "Hybrid Library" synchronizing physical & digital reading via Gemini 1.5 Pro. | Flutter, Supabase, Riverpod |
-| **Panel Play** | High-performance macOS widget for notification-center music control. | Swift, SwiftUI, Xcode |
+| **[Biblio](https://github.com/ved1nsh/biblio)** | A "Hybrid Library" synchronizing physical & digital reading. | Flutter, Supabase, Riverpod |
+| **Panel Play** | High-performance macOS widget for notification-center music control.(Ongoing) | Swift, SwiftUI, Xcode |
 | **[Biblio Landing](https://github.com/ved1nsh/bibliolandingpage)** | High-conversion web presence for the Biblio ecosystem. | React, TypeScript, Tailwind |
 
 ---
 
 ### 🛠️ Technical Arsenal
-* **Mobile & Desktop:** Flutter (Dart), Swift, SwiftUI
-* **Backend & Cloud:** Supabase, PostgreSQL, Firebase, Sembast (Offline-first)
-* **AI Integration:** Gemini 1.5 Pro, Multimodal OCR, Prompt Engineering
-* **Architecture:** Clean Architecture, Feature-based modularity, Riverpod State Management
+* **Mobile & Desktop:** Flutter (Dart), Swift, SwiftUI, JavaScript, TypeScript
+* **Backend & Cloud:** Supabase, PostgreSQL, Firebase
+* **Developer Tools:** Git, GitHub, Supabase, Firebase, Figma, XCode, VS Code
 
 ---
 
