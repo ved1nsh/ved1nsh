@@ -21,37 +21,33 @@ I specialize in shipping **scalable, optimized, and practical applications** tha
 
 ---
 
----
-
 ### 👨‍💻 About & Connect
-I'm a developer who thrives at the intersection of **Product Strategy** and **Clean Engineering**. When I'm not architecting Flutter apps or Swift widgets, I'm deep-diving into World History or cheering for Real Madrid.
+I'm an engineering student and aspiring product builder focused on creating meaningful digital experiences.
+I enjoy working at the intersection of design, development, and product thinking — building applications that are not just functional, but intuitive and user-focused.
+I'm actively learning Flutter, SwiftUI, and backend development while exploring how great products are designed, built, and scaled.
 
-* **Twitter:** [@your_handle](https://twitter.com/your_handle)
-* **LinkedIn:** [linkedin.com/in/your_profile](https://linkedin.com/in/your_profile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+Always curious, always building.
+* **Twitter:** [@ved1nsh](https://twitter.com/ved1nsh)
+* **LinkedIn:** [Profile](https://www.linkedin.com/in/vedansh-sharma-6660b5276/)
 
 ---
+> The graph below tracks my active coding hours across IDEs, reflecting my commitment to shipping optimized code daily.
 
-> "Shipping is a feature. Done is better than perfect, but optimized is better than just done."
-
-### 🧱 Consistency & Personal Growth
-I believe that engineering excellence is built through daily, disciplined habits—whether it's refining a codebase or mastering a language.
-
-* **Development Persistence:** * ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ved1nsh&layout=compat&theme=tokyonight)
 <a href="https://heatmap.shymike.dev?id=ved1nsh&cell_size=16&standalone=true" title="Click to view detailed data for each day!">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=ved1nsh&cell_size=16&theme=dark">
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=ved1nsh&cell_size=16&theme=light">
     </picture>
 </a>
-  * *The graph above tracks my active coding hours across IDEs, reflecting my commitment to shipping optimized code daily.*
+
+
+### 🧱 Consistency & Personal Growth
+I don't just talk about shipping; I track it. My habits are my documentation.
+* **Development Persistence:** [WakaTime Stats](https://hackatime.hackclub.com/@ved1nsh)
+  
+
 * **Language Proficiency:** 450+ Day Streak in Spanish on Duolingo 🇪🇸
-* **The Philosophy:** "It’s not about how much you do, but the consistency of the 'Leap of Faith' you take every day to build something new."
 
----
-
-
-> "Anyone can cook, but only the fearless can be great." — Chef Gusteau (and my approach to code).
 
 
 
